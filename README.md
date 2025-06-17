@@ -1,2 +1,0 @@
-# Calculator
-# Currency_Converter

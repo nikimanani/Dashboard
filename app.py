@@ -6,8 +6,8 @@ app = Flask(__name__)
 def dashboard():
     
     apps = [
-    {'name': '💱Currency Converter', 'url': 'https://calculator-z89q.onrender.com'},
-    {'name': '🧮Calculator', 'url': 'http://127.0.0.1:5002/'}
+    {'name': '💱Currency Converter', 'url': 'https://currency-converter-x250.onrender.com'},
+    {'name': '🧮Calculator', 'url': 'https://calculator-z89q.onrender.com'}
 ]
 
     print("✅ Route hit: Rendering dashboard with apps:", apps)
